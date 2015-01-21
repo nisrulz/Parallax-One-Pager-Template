@@ -2,11 +2,7 @@
 
 ## Getting Started
 
-To use this template, Fork this repository on GitHub to get started:
-
-## Bugs and Issues
-
-Have a bug or an issue with this template?
+To use this template, fork this repository on GitHub to get started.
 
 ## Creator
 
@@ -14,7 +10,7 @@ Parallax One Pager was created by and is maintained by **Nishant Srivastava**
 * https://twitter.com/nisrulz
 * https://github.com/nisrulz
 
-Parallax One Pager is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Parallax One Pager is based on the [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Copyright and License
 MIT
