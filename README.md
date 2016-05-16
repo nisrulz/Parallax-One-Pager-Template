@@ -15,7 +15,7 @@ Parallax One Pager is based on the [Bootstrap](http://getbootstrap.com/) framewo
 License
 =======
 
-    Copyright 2016 Nishant Srivastava
+    Copyright 2015 Nishant Srivastava
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
